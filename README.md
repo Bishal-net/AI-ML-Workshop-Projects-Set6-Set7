@@ -1,4 +1,4 @@
-# AI-ML-Workshop-Projects
+# AI-ML-Workshop-Projects.
 
 
 This repository contains my submissions for the AI/ML Workshop
